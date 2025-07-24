@@ -6,8 +6,10 @@ name = "pypi"
 [packages]
 pandas = "*"
 pytest = "*"
+numpy = "*"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.13"
